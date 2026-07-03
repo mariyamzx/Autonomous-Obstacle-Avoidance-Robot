@@ -4,7 +4,9 @@ An Arduino-powered 4-wheel robot that drives autonomously and avoids obstacles i
 
 ## Project Photo
 
-![Robot Build](./robot.jpeg)
+<p align="center">
+  <img src="./robot.jpeg" alt="Robot Build" width="400">
+</p>
 
 *The physical build: 4WD chassis, L298N motor driver, HC-SR04 ultrasonic sensor on an SG90 servo, and dual 18650 Li-ion battery pack.*
 
